@@ -1,6 +1,4 @@
-# Machine Learning Projects
 Heyya !!!  This is where I document and share my progress as I learn machine learning. I’ll be uploading my codes, experiments, and projects here, along with proper documentation to track my learning and growth.
-
 
 ## What’s in This Repository?
 - **Code**: Python scripts and Jupyter notebooks for various machine learning tasks.
