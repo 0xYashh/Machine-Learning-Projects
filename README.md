@@ -10,5 +10,4 @@ Heyya !!!  This is where I document and share my progress as I learn machine lea
 - **Description**: A k-Nearest Neighbors (k-NN) model to classify iris flowers into three species based on their features.
 - **Tools Used**: Python, scikit-learn, pandas, matplotlib, seaborn.
 - **Results**: Achieved 100% accuracy on the test set.
-- **Documentation**: [Iris Flower Classification README](/Iris-Flower-Classification/README.md)
 
