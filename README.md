@@ -1,4 +1,4 @@
-# Machine Learning Project
+# ML Playground
 Heyya !!!  This is where I document and share my progress as I learn machine learning. I’ll be uploading my codes, experiments, and projects here, along with proper documentation to track my learning and growth.
 
 
